@@ -1,2 +1,2 @@
-# hello-world-smile
-Classic hello world example to begin in this community
+# Hola-mundo-sonríe
+Ejemplo clásico de hola mundo para iniciarse en la comunidad GitHub.
